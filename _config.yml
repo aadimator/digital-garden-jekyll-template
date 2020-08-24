@@ -1,5 +1,4 @@
 title:               My digital garden
-include:             ['_pages']
 
 permalink:           pretty
 relative_permalinks: false
